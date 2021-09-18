@@ -14,7 +14,7 @@ curdir = os.getcwd()
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
  
 print ("DDoS mode loaded")
-print ("AUTOR : Xalbador CODE : XLBDR)
+print ("AUTOR : Xalbador CODE : XLBDR")
 host=raw_input( "Ip:" )
 port=input( "Port:" )
 message=raw_input( "send:" )
