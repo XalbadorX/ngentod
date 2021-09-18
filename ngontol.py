@@ -13,8 +13,9 @@ curdir = os.getcwd()
  
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~#
  
-print ("DDoS mode loaded")
+print ("DDoS python2 Xalbador")
 print ("AUTOR : Xalbador CODE : XLBDR")
+print ("Kalau Mau Pakek Ganteng Dulu Kontol")
 host=raw_input( "Ip:" )
 port=input( "Port:" )
 message=raw_input( "send:" )
